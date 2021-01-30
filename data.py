@@ -7,7 +7,7 @@ tree.heading("six", text="Ders 6")
 tree.heading("seven", text="Ders 7")
 tree.heading("eight", text="Ders 8")
 
-tree.insert("" , 1,    text="Pazartesi", values=("Kimya","Kimya","Türkçe","Türkçe","Matematik(Mikail)","Matematik(Mikail)","İngilizce(Feryat)","İngilizce(Feryat)"))
+tree.insert("" , 1,    text="Pazartesi", values=("Ders 1","Ders 2","Ders 3","Ders 4","Ders 5","Ders 6","Ders 7","Ders 8"))
 tree.insert("" , 2,    text="Salı", values=("Ders 1","Ders 2","Ders 3","Ders 4","Ders 5","Ders 6","Ders 7","Ders 8"))
 tree.insert("" , 3,    text="Çarşamba", values=("Ders 1","Ders 2","Ders 3","Ders 4","Ders 5","Ders 6","Ders 7","Ders 8"))
 tree.insert("" , 4,    text="Perşembe", values=("Ders 1","Ders 2","Ders 3","Ders 4","Ders 5","Ders 6","Ders 7","Ders 8"))
