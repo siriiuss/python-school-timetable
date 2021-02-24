@@ -36,7 +36,7 @@ def run(runfile):
 
 run("data.py")
 tree.pack()
-root.title("Ders Programı")
+root.title("Timetable")
 root.geometry("1240x200")
 root.iconphoto(False, tk.PhotoImage(file='212-512.png'))
 root.mainloop()
